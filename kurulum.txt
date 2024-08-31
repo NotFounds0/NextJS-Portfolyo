@@ -1,0 +1,28 @@
+"npm i" yaparak tüm gerekli dosyaları kurun
+"npm run dev" yaparak proje çalıştırabilirsiniz
+ücretsiz host edebileceğiniz siteler
+    vercel
+    netlify
+
+------------------------------------------------------
+sosyal medya ikon ve sosyal medya kart linklerini
+components/Account
+components/SocialMedia_icons
+dosyalarından değiştirebilirsiniz
+
+components/main dosyasından isim ve açıklamaları değiştirebilirsiniz
+
+---------------------------------------------------------
+github repo kullanmak isterseniz ilk önce bir token oluşturmalısınız.
+Personal Access Token Oluşturma:
+GitHub hesabına giriş yap.
+Sağ üst köşede profil simgesine tıkla ve "Settings" (Ayarlar) seçeneğine git.
+Sol menüden "Developer settings" bölümüne git.
+"Personal Access Tokens" seçeneğine tıkla ve yeni bir token oluştur.
+Bu token'ı, sadece ihtiyaç duyduğun izinlerle oluştur.
+sadece git repo seçmeniz yeterli olucaktır.
+
+aldığınız tokeni .env dosyasına yazın
+----------------------------------------------------------------
+
+! siteyi alıp kullandığınızdan itibaren tüm sorumluluk size aittir.
