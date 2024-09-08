@@ -28,7 +28,7 @@ export default function Home({ data, gitData }) {
 }
 export const getServerSideProps = async () => {
   try {
-    const gitUsername = "NotFounds0";
+    const gitUsername = "NotFounds0"; // github kullanıcı adınız
     const res = await axios.get(`${process.env.LANYARD}`);
     const gitApi = await axios.get(
       `https://api.github.com/users/${gitUsername}/repos`,
