@@ -22,7 +22,12 @@ Sol menüden "Developer settings" bölümüne git.
 Bu token'ı, sadece ihtiyaç duyduğun izinlerle oluştur.
 sadece git repo seçmeniz yeterli olucaktır.
 
+-----------------------------------------------
+discord bilgierini çekmek içinde
 aldığınız tokeni .env dosyasına yazın
+
+GITHUB_TOKEN=aldığınız token
+LANYARD=https://api.lanyard.rest/v1/users/discordİD
 ----------------------------------------------------------------
 
 ! siteyi alıp kullandığınızdan itibaren tüm sorumluluk size aittir.
